@@ -1,2 +1,0 @@
-# Identity
-Name, Height, Weight
